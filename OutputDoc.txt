@@ -1,0 +1,3 @@
+* Split a project todo shared by a team to seprarate members
+* A Chart of tasks to complete. Needs to be hierarchical. Gantt? Other? With per todo and per person views
+* Inverse inheritance: when a task has sub-tasks that are to be completed by PersonA and PersonB, the parent task inherits PersonA and PersonB as responsible

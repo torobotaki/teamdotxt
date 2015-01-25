@@ -1,0 +1,6 @@
+* Tabs define groupings of sub-tasks
+* Parentheses () are name(s) of person(s) responsible
+* Square brackets [] are deadlines
+* A plus sign followed by a number is the number of days necessary to complete task, example +2
+* Curly brackets {} are used to indicate status: {In Progress}, {Done}
+* Numbering listed elements (sub-tasks) gives dependencies. Ex. number 2 will only take place when number 1 is completed

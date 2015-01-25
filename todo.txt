@@ -1,0 +1,16 @@
+Concept
+    Find a better name (Dialekti) (Alexandre)
+    Decide language (Dialekti) [01/02/2015] +0 
+    Intialize git repo (Dialekti) [23/01/2015]
+Develop
+    Start coding (Dialekti)
+    Write Readme (Dialekti)
+    Decide on format (Dialekti)
+        Quotes or escapes? (Dialekti)
+        Elements of interest (Dialekti)
+    Document the format (Dialekti)
+    Add graph capabilities (Dialekti) +5
+Publish
+    Put on Github (Dialekti)
+
+    
